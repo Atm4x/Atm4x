@@ -18,6 +18,12 @@ B) Maths
 
 <h3>My stats:</h3>
 <p>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=Atm4x&theme=aura_dark&locale=en&hide_border=true"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atm4x&theme=aura_dark&layout=compact&hide_border=true&locale=en"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=Atm4x&theme=aura_dark&locale=en&hide_border=true&include_orgs=True&include_all_commits=True&show_icons=True&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atm4x&theme=aura_dark&layout=compact&include_orgs=True&hide_border=true&locale=en&include_all_commits=True&show_icons=True"/>
+
 </p>
+
+
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Atm4x&theme=aura_dark&locale=en&hide_border=true&include_orgs=True&include_all_commits=True&show_icons=True&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Atm4x&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
