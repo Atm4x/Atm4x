@@ -1,4 +1,4 @@
-![alt text](https://github.com/Atm4x/Atm4x/blob/main/PIXELC.jpeg?raw=true)
+![alt text](https://github.com/Atm4x/Atm4x/blob/main/PIXELZ.jpeg?raw=true)
 
 
 <div align="center">
