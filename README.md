@@ -1,3 +1,5 @@
+![alt text](https://github.com/Atm4x/Atm4x/blob/main/d9509801-beb0-4789-970a-b132692e3bea.gif?raw=true)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Atm4x's%20Profile!&fontSize=50&fontAlignY=35&desc=AI%20Enthusiast%20|%20Deep%20Learning%20Explorer%20|%20Data%20Science%20Aficionado&descAlignY=51&descAlign=62&animation=fadeIn" width="100%">
 </div>
