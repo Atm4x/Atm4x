@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Atm4x's%20Profile!&fontSize=50&fontAlignY=35&desc=AI%20Enthusiast%20|%20Deep%20Learning%20Explorer%20|%20Data%20Science%20Aficionado&descAlignY=51&descAlign=62&animation=fadeIn" width="100%">
 </div>
-<img align="right" src="https://placewaifu.com/image/500/1000" alt="c302" width="150" style="margin-right: 20px; position: absolute;"/>
+<img align="right" src="https://placewaifu.com/image/500/1001" alt="c302" width="150" style="margin-right: 20px; position: absolute;"/>
 
 
 <div align="center">
