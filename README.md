@@ -13,7 +13,7 @@
 <div align="center">
   🔭 Studying <b>AI</b> and <b>Mathematics</b><br>
   🌱 Passionate about <b>Deep Learning</b>, <b>Data Science</b>, and <b>Big Data</b><br>
-  😄 Pronouns: atmAx (pronounced as "atm-A-x")
+  😄 Pronouns: atmAx
 </div>
 
 <br>
