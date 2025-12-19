@@ -1,11 +1,7 @@
-<!-- HEADER -->
 <div align="center">
   <img src="https://github.com/Atm4x/Atm4x/blob/main/PIXELZ.jpeg?raw=true" width="100%" alt="Header Banner" />
 </div>
 
-<br>
-
-<!-- MAIN CONTENT GRID -->
 <table border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -30,9 +26,6 @@
   </tr>
 </table>
 
-<br>
-
-<!-- BIG GRAPH -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atm4x&theme=tokyonight" width="100%">
 </div>
