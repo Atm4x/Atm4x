@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Atm4x/Atm4x/blob/main/PIXELZ.jpeg?raw=true" width="100%" alt="Header Banner" />
+  <img src="https://github.com/Atm4x/Atm4x/blob/main/PIXELXL.png?raw=true" width="100%" alt="Header Banner" />
 </div>
 
 <table border="0" width="100%">
