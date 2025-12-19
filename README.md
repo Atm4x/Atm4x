@@ -19,9 +19,9 @@
       </a>
     </td>
     <td width="45%" valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api?username=Atm4x&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" />
-      <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atm4x&layout=compact&theme=github_dark&hide_border=true&langs_count=5" width="100%" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Atm4x&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="100%" />
     </td>
   </tr>
 </table>
