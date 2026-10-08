@@ -9,7 +9,7 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=300&color=F75C7E&width=435&lines=Interested+in+Coding;Interested+in+Math;Interested+in+AI" alt="Typing SVG" />
       </a>
-      <img src="https://moe-counter.glitch.me/get/@Atm4x?theme=rule34" alt="Atm4x's Profile Views" height="80" />
+      <img src="https://count.getloli.com/get/@Atm4x?theme=rule34" alt="Atm4x's Profile Views" height="80" />
       <br><br>
       <h3>🛠 Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker&theme=dark" alt="Skills" />
